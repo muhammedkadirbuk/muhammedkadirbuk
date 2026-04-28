@@ -14,10 +14,10 @@
 
 | Domain | Proficiency |
 | :--- | :--- |
-| **Languages** | ![Python] ![C++] ![Solidity] ![kotlin] |
-| **AI & CV** | ![OpenCV] ![MediaPipe] ![NumPy] |
-| **DevOps & Tools** | ![Git] ![VSCode] ![Linux] |
-| **Design** | ![Inkscape] ![WordPress] |
+| **Languages** |Python, C, C++, Solidity, Kotlin, Javascript|
+| **AI & CV** |OpenCV, MediaPipe, NumPy|
+| **DevOps & Tools** |Git, VSCode, Linux|
+| **Design** |Inkscape, WordPress|
 
 ---
 
